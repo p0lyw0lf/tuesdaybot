@@ -1,0 +1,11 @@
+[package]
+name = "tuesdaybot"
+version = "0.2.1"
+authors = ["p0lyw0lf@protonmail.com"]
+edition = "2018"
+
+[dependencies]
+serenity = "0.8"
+chrono = "0.4"
+regex = "1"
+
